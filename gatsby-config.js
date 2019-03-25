@@ -1,3 +1,3 @@
 module.exports = {
-    pathPrefix: "/movie-listing",
+    pathPrefix: "/movie-listing/public/",
   }
